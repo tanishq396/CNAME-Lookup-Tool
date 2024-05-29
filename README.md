@@ -1,3 +1,5 @@
+## **CNAME Lookup Tool**
+
 This script reads a list of subdomains from a file, uses the `dig` command to retrieve their CNAME records, and outputs the results in a simplified format.
 
 ## Features
